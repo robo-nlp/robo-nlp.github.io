@@ -185,7 +185,7 @@ TOP: 0;
   font-size: 225%;
   font-weight: 600;
   font-family:'Cabin','trebuchet ms',arial,helvetica,sans-serif;
-  width: 350px;
+  width: 450px;
 }
 
 .headername2 {
@@ -274,7 +274,7 @@ TOP: 0;
 .headerright{
 color: #444444;
 OUTLINE: 0;
-width: 550px;
+width: 450px;
 PADDING-LEFT: 0px;
 PADDING-RIGHT: 40px;
 PADDING-TOP: 0px;
